@@ -1,0 +1,32 @@
+---
+title: "HISTnotes"
+author: "Kevin Pasquette"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+lf <- c(1, 2, 3, 4, 5)
+mean(lf)
+```
+
+```{r}
+library(ggplot2)
+data(mpg)
+ggplot(mpg, aes(x=displ, y=hwy)) +
+geom_point()
+```
+
+
+
+
+
+
+
+
+
