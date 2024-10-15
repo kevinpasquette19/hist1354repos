@@ -1,0 +1,107 @@
+onset,terminus,vertex.id,onset.censored,terminus.censored,duration,name,region
+1280,1311,1,FALSE,FALSE,31,Pierre de Raimbaucourt,Amiens
+1288.5,1311,2,FALSE,FALSE,22.5,Amiens 157 group,Amiens
+1257.5,1290,3,FALSE,FALSE,32.5,Hospitaller Master,Paris and Province of Sens
+1280,1305,4,FALSE,FALSE,25,Meliacin Master,Paris and Province of Sens
+1272.5,1282.5,5,FALSE,FALSE,10,Arras Early Works,Arras
+1272.5,1305,6,FALSE,FALSE,32.5,Master of Lyon 867,Arras
+1292.5,1305,7,FALSE,FALSE,12.5,Master of W. 104,Arras
+1275,1285,8,FALSE,FALSE,10,Master of the Krakow Justinian,Narbonne
+1275,1295,9,FALSE,FALSE,20,Isidore group: Montpellier or Narbonne?,Narbonne
+1295,1325,10,FALSE,FALSE,30,Master of Avignon 659,Narbonne
+1295,1316,11,FALSE,FALSE,21,Master of the Agen Breviary,Narbonne
+1295,1315,12,FALSE,FALSE,20,Master of Augier de Cogeux,Narbonne
+1307,1317,13,FALSE,FALSE,10,"Beauvais, Saint-Quentin, or Reims?",Beauvais
+1295,1317.5,14,FALSE,FALSE,22.5,"Master of the Vie de Sainte-Benoite: Saint-Quentin, Reims, Beauvais?",Soissons - Laon - Noyon
+1295,1312.5,15,FALSE,FALSE,17.5,Bordeaux? (Prov. Bordeaux),"Province of Tours, Bourges, Bordeaux, Auch"
+1285,1312.5,16,FALSE,FALSE,27.5,"Bordeaux, Toulouse or Narbonne?","Province of Tours, Bourges, Bordeaux, Auch"
+1272,1305,17,FALSE,FALSE,33,"Main-line Saint-Omer, 1277-1297, with links to Cambrai and Reims",Therouanne and Saint-Omer
+1287.5,1302.5,18,FALSE,FALSE,15,"Saint-Omer and Cambrai, 1290s",Therouanne and Saint-Omer
+1290,1300,19,FALSE,FALSE,10,"Saint-Omer and Cambrai, 1290s B",Therouanne and Saint-Omer
+1288.5,1302.5,20,FALSE,FALSE,14,"Therouanne, 1290s , BNF fr. 95 Master and assistants",Therouanne and Saint-Omer
+1290,1302.5,21,FALSE,FALSE,12.5,BNF fr. 95 Assistant,Therouanne and Saint-Omer
+1264,1280,22,FALSE,FALSE,16,Johannes Phylomena Master,Cambrai
+1264,1274,23,FALSE,FALSE,10,"Artist of Bruges, GS 54/100",Cambrai
+1290,1300,24,FALSE,FALSE,10,Echos,Cambrai
+1285,1325,25,FALSE,FALSE,40,Narbonne Parisianising,Narbonne
+1285,1295,26,FALSE,FALSE,10,Narbonne Italianizing,Narbonne
+1286,1296,27,FALSE,FALSE,10,Cambrai Synods artist,Cambrai
+1286,1322.5,28,FALSE,FALSE,36.5,"Douce 5 artist: Liege, Tournai, Luxembourg?",Tournai
+1290,1300,29,FALSE,FALSE,10,Cambrai Missals Artist: Cambrai or Therouanne?,Cambrai
+1315,1325,30,FALSE,FALSE,10,Fauvel Master,Paris and Province of Sens
+1315,1325,31,FALSE,FALSE,10,Narbonne Other Law Books,Narbonne
+1286,1305,32,FALSE,FALSE,19,Master of Cambrai 87: Reims or Saint-Omer/Therouanne?,Reims
+1286,1296,33,FALSE,FALSE,10,"Besancon, Sion, Tarantaise?","Lyon, Besancon, Tarantaise, Vienne"
+1270,1292.5,34,FALSE,FALSE,22.5,"Paris ca. 1260-1275 (Branner's Corpus, Dominican, and Sainte-Chapelle Groups)",Paris and Province of Sens
+1270,1280,35,FALSE,FALSE,10,"Reims, Parisianising",Reims
+1306,1316,36,FALSE,FALSE,10,Amiens 157 group related,Amiens
+1272.5,1282.5,37,FALSE,FALSE,10,Master of the Arras Chansonnier,Arras
+1272.5,1313,38,FALSE,FALSE,40.5,Master of W. 104 related,Arras
+1315,1325,39,FALSE,FALSE,10,Assistant artist of Vat. Lat. 1650,"Aix, Arles, Avignon, Embrun"
+1315,1325,40,FALSE,FALSE,10,Master of the Florence Queste: Related,"Aix, Arles, Avignon, Embrun"
+1275,1300,41,FALSE,FALSE,25,Italianizing: Beziers? Montpellier?,Narbonne
+1265,1277.5,42,FALSE,FALSE,12.5,The Cambron pen-flourisher,Cambrai
+1267.5,1277.5,43,FALSE,FALSE,10,Boethius Master: Tournai or Cambrai?,Tournai
+1265,1277.5,44,FALSE,FALSE,12.5,Johannes Phylomena Master Related,Cambrai
+1295,1317.5,45,FALSE,FALSE,22.5,"Artist of London, BL Harley 4972",Verdun and Metz (Province of Trier)
+1295,1305,46,FALSE,FALSE,10,Nicolas,Verdun and Metz (Province of Trier)
+1303,1322,47,FALSE,FALSE,19,Master of lat. 3893,Paris and Province of Sens
+1284,1312,48,FALSE,FALSE,28,Dijon Other,"Lyon, Besancon, Tarantaise, Vienne"
+1284,1307.5,49,FALSE,FALSE,23.5,First Master of the Breviary of Renaud de Bar,Verdun and Metz (Province of Trier)
+1257.5,1290,50,FALSE,FALSE,32.5,Charlemagne Master,Paris and Province of Sens
+1270,1283.5,51,FALSE,FALSE,13.5,"Dijon (Dioc. Langres, Prov. Lyon)","Lyon, Besancon, Tarantaise, Vienne"
+1274.5,1320,52,FALSE,FALSE,45.5,Maitre au menton fuyant,Arras
+1274.5,1290,53,FALSE,FALSE,15.5,Maitre Henri and his entourage,Cambrai
+1297.5,1312.5,54,FALSE,FALSE,15,Master of the Dresden Oc 50 Apocalypse (Master of the Metz Faces: Davenport Artist III),Verdun and Metz (Province of Trier)
+1302.5,1312.5,55,FALSE,FALSE,10,Thierry de Vaucouleurs Master,Verdun and Metz (Province of Trier)
+1293.5,1322,56,FALSE,FALSE,28.5,"Vie de saint Denis Master, antecedents and followers",Paris and Province of Sens
+1267.5,1303.5,57,FALSE,FALSE,36,Cholet Master,Paris and Province of Sens
+1267.5,1303.5,58,FALSE,FALSE,36,Saint-Denis Missal Master and Assistants,Paris and Province of Sens
+1310,1325,59,FALSE,FALSE,15,Orbit of Honore: Post-Honore,Paris and Province of Sens
+1260,1270,60,FALSE,FALSE,10,"Vauclair Group (O. Cist, Dioc. Laon)",Soissons - Laon - Noyon
+1260,1270,61,FALSE,FALSE,10,"Gautier Master: Soissons, Noyon, or Laon",Soissons - Laon - Noyon
+1260,1270,62,FALSE,FALSE,10,"Vincent Master: Soissons, Noyon, Laon, Chalons",Soissons - Laon - Noyon
+1277,1287,63,FALSE,FALSE,10,"Boulogne, Therouanne, Reims, Metz or Paris?",Therouanne and Saint-Omer
+1308.5,1320,64,FALSE,FALSE,11.5,Master of the Besancon Pontifical: Avignon,"Aix, Arles, Avignon, Embrun"
+1308.5,1320,65,FALSE,FALSE,11.5,Assistant to the Besancon Pontifical Master,"Aix, Arles, Avignon, Embrun"
+1305,1315,66,FALSE,FALSE,10,"Artist of Coutances, Bibl. mun. 4",Arras
+1297.5,1308,67,FALSE,FALSE,10.5,Master of the Cambridge Pontifical of Renaud de Bar,Verdun and Metz (Province of Trier)
+1265,1275,68,FALSE,FALSE,10,"Saint-Omer and Amiens, 1280s",Therouanne and Saint-Omer
+1265,1275,69,FALSE,FALSE,10,"Saint-Omer or Therouanne, 1270s?",Therouanne and Saint-Omer
+1293.5,1303.5,70,FALSE,FALSE,10,"Montpellier Chansonnier Fasc. I and VII, orbit of 'Honore'",Paris and Province of Sens
+1290,1300,71,FALSE,FALSE,10,"Narbonne, Elne, or Perpignan (Prov. Narbonne)",Narbonne
+1282.5,1292.5,72,FALSE,FALSE,10,Nancy 3 Master,Verdun and Metz (Province of Trier)
+1282.5,1292.5,73,FALSE,FALSE,10,Jennart Bible Group,Reims
+1270,1280,74,FALSE,FALSE,10,Reims or Senlis?,Reims
+1275,1285,75,FALSE,FALSE,10,Tournai Psalter Master,Tournai
+1272,1285,76,FALSE,FALSE,13,Pontifical Master,Cambrai
+1307.5,1317.5,77,FALSE,FALSE,10,Early fourteenth-century Reims,Reims
+1285,1301,78,FALSE,FALSE,16,Follower of Meliacin Master,Paris and Province of Sens
+1285,1301,79,FALSE,FALSE,16,Master Honore and workshop,Paris and Province of Sens
+1288.5,1298.5,80,FALSE,FALSE,10,"The artist of Pierpont Morgan Library, M.729",Amiens
+1312.5,1322.5,81,FALSE,FALSE,10,Douce 6 artist,Tournai
+1298,1317.5,82,FALSE,FALSE,19.5,Artist of the Sainte-Glossinde Charter,Verdun and Metz (Province of Trier)
+1263,1282,83,FALSE,FALSE,19,Early Manuscripts: Saint-Omer,Therouanne and Saint-Omer
+1263,1273,84,FALSE,FALSE,10,Arras Early Works Possibly Related,Arras
+1267,1290,85,FALSE,FALSE,23,Bute Master,Cambrai
+1280,1290,86,FALSE,FALSE,10,Mons Perceval Master,Tournai
+1260,1285,87,FALSE,FALSE,25,Third artist in lat. 10525,Paris and Province of Sens
+1287.5,1297.5,88,FALSE,FALSE,10,Maitre Henri related,Cambrai
+1295,1305,89,FALSE,FALSE,10,Master of lat. 1328,Arras
+1295,1306,90,FALSE,FALSE,11,"Narbonne, Beziers, Montpellier? (Prov. Narbonne)",Narbonne
+1273.5,1283.5,91,FALSE,FALSE,10,Joinville Credo Artist,Verdun and Metz (Province of Trier)
+1295,1305,92,FALSE,FALSE,10,Master of BR 9548 Ars d'amour,Arras
+1290,1300,93,FALSE,FALSE,10,Artist of BNF fr. 789,Amiens
+1270,1290,94,FALSE,FALSE,20,Douai,Douai
+1270,1290,95,FALSE,FALSE,20,Boisrouvray Psalter group,Amiens
+1260,1270,96,FALSE,FALSE,10,St Louis Psalter Master,Paris and Province of Sens
+1260,1270,97,FALSE,FALSE,10,Isabelle Psalter Master,Paris and Province of Sens
+1270,1280,98,FALSE,FALSE,10,"Beauvais, Cambrai? Related",Beauvais
+1314,1324,99,FALSE,FALSE,10,Master of the Croisade albigeoise,Narbonne
+1314,1324,100,FALSE,FALSE,10,Grima Master (see also Avignon),Narbonne
+1275,1285,101,FALSE,FALSE,10,Master of BNF lat. 830,Paris and Province of Sens
+1280,1290,102,FALSE,FALSE,10,Madame Marie Master,Cambrai
+1302,1312,103,FALSE,FALSE,10,First Master of the Breviary of Renaud de Bar Related (but see also Cambrai and Dijon,Verdun and Metz (Province of Trier)
+1288.5,1298.5,104,FALSE,FALSE,10,Later Saint-Nicaise Group,Reims
+1280,1300,105,FALSE,FALSE,20,Master of Ars. 590,Paris and Province of Sens
+1267,1277,106,FALSE,FALSE,10,"Lesser artist of the Hague, KB 76 J 18",Cambrai
